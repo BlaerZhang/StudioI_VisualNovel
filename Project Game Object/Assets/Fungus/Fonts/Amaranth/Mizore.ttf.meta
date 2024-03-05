@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e093aa57a46e37b4e804fa18141143fd
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Mizore
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b63c811c4d33ba049a14d66f7953b4ec, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
